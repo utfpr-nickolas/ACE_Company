@@ -7,3 +7,8 @@ body {
 	height:100%;
 	widht:100%
 }
+h2 {
+	font-size:68px;
+	margin:25px;
+	float:left;
+}
